@@ -1,3 +1,3 @@
 # Tours
 
-Platform zum Dokumentieren und Sammeln von Touren.
+Plattform zum Dokumentieren und Sammeln von Touren.
